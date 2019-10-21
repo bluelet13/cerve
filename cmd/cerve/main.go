@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"ngen.co.jp/cermo/pkg/cerve"
+	"ngen.co.jp/cerve/pkg/cerve"
 	"os"
 )
 

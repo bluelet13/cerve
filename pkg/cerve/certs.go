@@ -2,7 +2,7 @@ package cerve
 
 import (
 	"encoding/json"
-	"ngen.co.jp/cermo/pkg/cert"
+	"ngen.co.jp/cerve/pkg/cert"
 )
 
 type Certs struct {

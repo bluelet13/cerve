@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
-	"ngen.co.jp/cermo/pkg/cert"
+	"ngen.co.jp/cerve/pkg/cert"
 )
 
 type Cerve struct {
